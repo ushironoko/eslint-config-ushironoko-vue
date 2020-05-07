@@ -1,0 +1,9 @@
+{
+  "name": "eslint-plugin-ushironoko-vue",
+  "version": "1.0.0",
+  "description": "ushironoko vuejs eslint plugin",
+  "main": "index.js",
+  "repository": "https://github.com/ushironoko/eslint-plugin-ushironoko-vue.git",
+  "author": "ushironoko",
+  "license": "MIT"
+}
