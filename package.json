@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ushironoko-vue",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "eslint config for vuejs",
   "main": "index.js",
   "repository": "https://github.com/ushironoko/eslint-plugin-ushironoko-vue.git",
