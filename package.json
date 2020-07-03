@@ -2,13 +2,13 @@
   "name": "eslint-config-ushironoko-vue",
   "version": "1.0.4",
   "description": "eslint config for vuejs",
-  "main": "index.js",
+  "main": "index.ts",
   "repository": "https://github.com/ushironoko/eslint-plugin-ushironoko-vue.git",
   "author": "ushironoko",
   "license": "MIT",
   "scripts": {
-    "lint": "eslint --ext .js .",
-    "fix": "eslint --fix --ext .js ."
+    "test": "tsc --noEmit",
+    "build": "yarn test && tsc -b"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^3.5.0",
