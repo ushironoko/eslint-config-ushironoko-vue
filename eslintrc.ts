@@ -21,8 +21,9 @@ export = {
   plugins: ['@typescript-eslint'],
   rules: {
     quotes: ['error', 'single'],
-    '@typescript-eslint/explicit-function-return-type': 0,
-    '@typescript-eslint/explicit-module-boundary-types': 0,
+    '@typescript-eslint/explicit-function-return-type': 'off',
+    '@typescript-eslint/explicit-module-boundary-types': 'off',
+    'vue/valid-template-root': 'off',
     'vue/component-name-in-template-casing': [
       'error',
       'PascalCase',
@@ -39,6 +40,5 @@ export = {
         ],
       },
     ],
-    'vue/valid-template-root': 0,
   },
 }
