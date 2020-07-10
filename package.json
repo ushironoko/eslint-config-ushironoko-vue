@@ -8,7 +8,8 @@
   "license": "MIT",
   "scripts": {
     "test": "tsc --noEmit",
-    "build": "yarn test && tsc -b"
+    "build": "yarn test && tsc -b",
+    "pub": "yarn build && npm publish"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^3.5.0",
