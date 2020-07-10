@@ -39,5 +39,6 @@ export = {
         ],
       },
     ],
+    'vue/valid-template-root': 0,
   },
 }
