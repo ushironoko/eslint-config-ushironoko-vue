@@ -6,10 +6,20 @@
   "repository": "https://github.com/ushironoko/eslint-plugin-ushironoko-vue.git",
   "author": "ushironoko",
   "license": "MIT",
+  "release": {
+    "plugins": [
+      "@semantic-release/commit-analyzer",
+      "@semantic-release/release-notes-generator",
+      "@semantic-release/changelog",
+      "@semantic-release/npm",
+      "@semantic-release/github",
+      "@semantic-release/git"
+    ]
+  },
   "scripts": {
     "test": "tsc --noEmit",
-    "build": "yarn test && tsc -b",
-    "pub": "yarn build && npm publish"
+    "build": "tsc -b",
+    "semantic-release": "semantic-release"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^3.5.0",
