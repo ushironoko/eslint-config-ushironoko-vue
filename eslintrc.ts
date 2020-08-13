@@ -23,7 +23,6 @@ export = {
     quotes: ['error', 'single'],
     '@typescript-eslint/explicit-function-return-type': 'off',
     '@typescript-eslint/explicit-module-boundary-types': 'off',
-    'vue/valid-template-root': 'off',
     'vue/component-name-in-template-casing': [
       'error',
       'PascalCase',
