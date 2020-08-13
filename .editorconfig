@@ -7,17 +7,3 @@ indent_style=space
 indent_size=2
 insert_final_newline=true
 trim_trailing_whitespace=true
-
-[*.{diff,md}]
-trim_trailing_whitespace=false
-
-[Makefile]
-indent_size=4
-indent_style=tab
-
-[*.{php,py}]
-indent_size=4
-
-[*.go]
-indent_size=4
-indent_style=tab
