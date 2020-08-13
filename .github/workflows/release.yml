@@ -25,17 +25,17 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: ${{ matrix.node-version }}
-      - name: npm install, build, and test
+      - name: yarn install, build, and test
         run: |
-          npm ci
-          npm test
-          npm run build
+          yarn install
+          yarn run test
+          yarn run build
         env:
           CI: true
       - name: semantic-release
         if: matrix.node-version == '12.x'
         run: |
-          npm run semantic-release
+          yarn run semantic-release
         env:
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
