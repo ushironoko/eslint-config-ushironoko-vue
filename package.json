@@ -19,7 +19,8 @@
   "scripts": {
     "test": "tsc --noEmit",
     "build": "tsc -b",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "dry": "semantic-release -d"
   },
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "latest",
