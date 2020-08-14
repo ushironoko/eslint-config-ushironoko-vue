@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/compare/v1.0.0...v1.0.1) (2020-08-14)
+
+
+### Performance Improvements
+
+* **pencil:** update eslint version ([43cb49b](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/commit/43cb49bea363315e7d777a96d17f9b5e95e5508e))
+
 # 1.0.0 (2020-08-13)
 
 
