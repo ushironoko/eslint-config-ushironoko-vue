@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/compare/v1.0.1...v1.1.0) (2020-08-14)
+
+
+### Features
+
+* Change ci's node support to 12.x only ([1202754](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/commit/12027547af14508888958b67591a81687b3c25d1))
+
 ## [1.0.1](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/compare/v1.0.0...v1.0.1) (2020-08-14)
 
 
