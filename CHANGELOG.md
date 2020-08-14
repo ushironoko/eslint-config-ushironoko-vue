@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/compare/v1.1.0...v2.0.0) (2020-08-14)
+
+
+### Features
+
+* **docs:** yarn install --ignore-engines ([af8407d](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/commit/af8407d8542398d8fca92295e240d80361d9e810))
+
+
+### BREAKING CHANGES
+
+* **docs:** Including testing of major upgrades.
+
 # [1.1.0](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/compare/v1.0.1...v1.1.0) (2020-08-14)
 
 
