@@ -17,7 +17,7 @@ jobs:
 
     strategy:
       matrix:
-        node-version: [12.x]
+        node-version: [14.x]
 
     steps:
       - name: Checkout Repository
@@ -36,7 +36,6 @@ jobs:
         env:
           CI: true
       - name: semantic-release
-        if: matrix.node-version == '12.x'
         run: |
           yarn run semantic-release
         env:
