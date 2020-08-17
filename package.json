@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-ushironoko-vue",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "description": "eslint config for my vue (and nuxt)",
   "main": "dist/index.js",
   "repository": "https://github.com/ushironoko/eslint-plugin-ushironoko-vue.git",

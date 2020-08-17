@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/compare/v2.0.0...v2.1.0) (2020-08-17)
+
+
+### Features
+
+* **ci:** Limit the version of the node running at ci to 14.x only. ([c01d8d8](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/commit/c01d8d87422a3df5e2e9a332cb0986c546841f81))
+
 # [2.0.0](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/compare/v1.1.0...v2.0.0) (2020-08-14)
 
 
