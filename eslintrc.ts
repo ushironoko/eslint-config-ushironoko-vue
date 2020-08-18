@@ -24,6 +24,7 @@ export = {
     '@typescript-eslint/explicit-function-return-type': 'off',
     '@typescript-eslint/explicit-module-boundary-types': 'off',
     'vue/no-v-html': 'error',
+    'vue/v-on-style': 'off',
     'vue/component-name-in-template-casing': [
       'error',
       'PascalCase',
