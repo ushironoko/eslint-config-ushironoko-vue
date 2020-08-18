@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/compare/v2.2.0...v3.0.0) (2020-08-18)
+
+
+### Features
+
+* **eslintrc.ts:** change 'vue/no-v-html' to an error ([523b1e6](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/commit/523b1e6f9a35878caff5ac1ff3c5f797aa90871d)), closes [#5](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/issues/5)
+
+
+### BREAKING CHANGES
+
+* **eslintrc.ts:** 'vue/no-v-html': 'warn' -> 'error'
+
 # [2.2.0](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/compare/v2.1.0...v2.2.0) (2020-08-17)
 
 
