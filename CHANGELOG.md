@@ -1,3 +1,10 @@
+# [3.2.0](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/compare/v3.1.0...v3.2.0) (2020-08-18)
+
+
+### Features
+
+* **package.json:** skip npm publish ([62b2b09](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/commit/62b2b090859c13b5e0f37b8f3a78fd3b59ac6117))
+
 # [3.1.0](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/compare/v3.0.0...v3.1.0) (2020-08-18)
 
 
