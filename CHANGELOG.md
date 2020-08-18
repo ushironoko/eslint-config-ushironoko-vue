@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/compare/v2.1.0...v2.2.0) (2020-08-17)
+
+
+### Features
+
+* **package.json:** added the ability to show commit comment templates with git commit hooks ([3155df7](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/commit/3155df731ed287812bc202dd34378cf58488e13f))
+
 # [2.1.0](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/compare/v2.0.0...v2.1.0) (2020-08-17)
 
 
