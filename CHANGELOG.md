@@ -1,3 +1,11 @@
+# [3.1.0](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/compare/v3.0.0...v3.1.0) (2020-08-18)
+
+
+### Features
+
+* **eslintrc.ts:** fix rule ([2f99e5d](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/commit/2f99e5d775c612041b054ae8ebd9e6dd3bb1aba2)), closes [#10](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/issues/10)
+* **eslintrc.ts:** fix rule ([185a42f](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/commit/185a42f576b8da43614de5a49f0f0f08ddba1358)), closes [#11](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/issues/11)
+
 # [3.0.0](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/compare/v2.2.0...v3.0.0) (2020-08-18)
 
 
