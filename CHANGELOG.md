@@ -1,3 +1,10 @@
+# [3.3.0](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/compare/v3.2.0...v3.3.0) (2020-11-08)
+
+
+### Features
+
+* add rule @typescript-eslint/no-empty-function: off ([85eb72a](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/commit/85eb72a052686c286f2497fcc878a9929daccf64))
+
 # [3.2.0](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/compare/v3.1.0...v3.2.0) (2020-08-18)
 
 
