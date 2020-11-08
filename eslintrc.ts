@@ -23,6 +23,7 @@ export = {
     quotes: ['error', 'single'],
     '@typescript-eslint/explicit-function-return-type': 'off',
     '@typescript-eslint/explicit-module-boundary-types': 'off',
+    '@typescript-eslint/no-empty-function': 'off',
     'vue/no-v-html': 'error',
     'vue/v-bind-style': 'off',
     'vue/v-on-style': 'off',
