@@ -1,3 +1,10 @@
+## [3.3.1](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/compare/v3.3.0...v3.3.1) (2021-03-17)
+
+
+### Performance Improvements
+
+* upgrade packages ([ea0db46](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/commit/ea0db4685246abf97daed97efd3fb3f6dbb23f2f))
+
 # [3.3.0](https://github.com/ushironoko/eslint-plugin-ushironoko-vue/compare/v3.2.0...v3.3.0) (2020-11-08)
 
 
